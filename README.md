@@ -98,3 +98,14 @@ ngrok http 3000
 * No warranty expressed or implied. Software is as is. Diggity.
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
 * Lovingly crafted by Twilio Developer Education.
+
+
+## source: git@github.com:TwilioDevEd/sdk-starter-node.git
+## minimum twilio keys requirement
+TWILIO_ACCOUNT_SID=~
+TWILIO_API_KEY=~
+TWILIO_API_SECRET=~
+TWILIO_CHAT_SERVICE_SID=~
+TWILIO_NOTIFICATION_SERVICE_SID=~ 
+
+
